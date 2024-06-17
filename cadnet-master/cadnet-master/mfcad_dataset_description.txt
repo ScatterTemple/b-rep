@@ -1,0 +1,19 @@
+# Legend of MFCAD Dataset
+Key	Feature
+0	Rectangular through slot
+1	Triangular through slot
+2	Rectangular passage
+3	Triangular passage
+4	6 sided passage
+5	Rectangular through step
+6	2 sided through step
+7	Slanted through step
+8	Rectangular blind step
+9	Triangular blind step
+10	Rectangular blind slot
+11	Rectangular pocket
+12	Triangular pocket
+13	6 sided pocket
+14	Chamfer
+15	Stock
+
